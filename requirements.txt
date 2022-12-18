@@ -1,0 +1,5 @@
+joblib==1.2.0
+numpy==1.23.4
+pandas==1.5.2
+pydeck==0.7.1
+streamlit==1.11.0

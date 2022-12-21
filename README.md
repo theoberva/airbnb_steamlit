@@ -4,6 +4,9 @@ The project involved cleaning and preparing data from Airbnb listings in a Melbo
 
 In addition to the machine learning aspect of the project, a streamlit app was also created. The app allows users to input their own listing information and receive a prediction of the price for their unit using the trained model. The app was deployed online, allowing users to easily access it from their web browser. Overall, the project demonstrated the importance of properly preparing data and selecting the right machine learning algorithm in order to build an accurate model for predicting Airbnb prices, as well as the utility of using a streamlit app to make the model easily accessible to users.
 
+![Animation](https://user-images.githubusercontent.com/100107358/208912750-71875eae-6185-4122-8466-27a6a2e8a36c.gif)
+
+
 ---
 
 View app here:
